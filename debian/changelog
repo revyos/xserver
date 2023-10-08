@@ -1,8 +1,9 @@
-xorg-server (2:21.1.8+1revyos1) unstable; urgency=medium
+xorg-server (3:21.1.8+1revyos1) unstable; urgency=medium
 
   * trans format 1.0 to 3.0 (native)
+  * modify glx extension installation directory
 
- -- Han Gao <gaohan@iscas.ac.cn>  Tue, 03 Oct 2023 16:34:11 +0800
+ -- Han Gao <gaohan@iscas.ac.cn>  Sun, 08 Oct 2023 21:01:25 +0800
 
 xorg-server (2:21.1.8-1) unstable; urgency=medium
 
