@@ -1,6 +1,7 @@
 xorg-server (2:21.1.15+2revyos1) unstable; urgency=medium
 
   * trans format 1.0 to 3.0 (native)
+  * modify glx extension installation directory
 
  -- Han Gao <rabenda.cn@gmail.com>  Mon, 23 Dec 2024 08:05:52 +0000
 
