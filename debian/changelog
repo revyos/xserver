@@ -1,3 +1,13 @@
+xorg-server (3:21.1.15+2revyos2) unstable; urgency=medium
+
+  * modesetting: fix shared pixmap dmabuf fd leakage
+  * modesetting: property use fb_id of front_bo for reverse PRIME CRTC
+  * randr: do full transform when checking SetScreenSize size
+  * hw/xfree86: re-calculate the clock and refresh rate
+  * unset MESA_LOADER_DRIVER_OVERRIDE if it's zink
+
+ -- Han Gao <gaohan@iscas.ac.cn>  Fri, 14 Nov 2025 20:08:05 +0800
+
 xorg-server (2:21.1.15+2revyos1) unstable; urgency=medium
 
   * trans format 1.0 to 3.0 (native)
