@@ -1,3 +1,9 @@
+xorg-server (3:21.1.15+2revyos3) unstable; urgency=medium
+
+  * Revert "modify glx extension installation directory"
+
+ -- Han Gao <gaohan@iscas.ac.cn>  Wed, 19 Nov 2025 01:59:56 +0800
+
 xorg-server (3:21.1.15+2revyos2) unstable; urgency=medium
 
   * modesetting: fix shared pixmap dmabuf fd leakage
